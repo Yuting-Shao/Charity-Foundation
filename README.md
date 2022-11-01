@@ -2,7 +2,7 @@
 
 link:https://charityfound.herokuapp.com/
 
-Authors: [Yuting Shao](https://Yuting-Shao.github.io), [Zihan Xu]()
+Authors: [Yuting Shao](https://Yuting-Shao.github.io), [Zihan Xu](https://replit.com/@hro1/Personal-Web#index.html)
 
 This is the Project 2 of the class CS5610 - web development 2022 Fall.
 
