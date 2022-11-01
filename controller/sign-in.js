@@ -1,5 +1,4 @@
 import myDB from "../db/myDB.js";
-
 //Zihan Xu
 export const authenticateUser = async (req, res) => {
   const user = req.body;

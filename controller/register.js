@@ -1,5 +1,5 @@
 import myDB from "../db/myDB.js";
-//Yuting Shao
+// Yuting Shao
 export const register = async (req, res) => {
   let user;
   let checker;
