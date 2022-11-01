@@ -1,0 +1,39 @@
+div#msg {
+  display: none;
+}
+
+
+#nav-bar{
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.navbar{
+  background-image: linear-gradient(to right, #e1b5e8, #af66d4);
+  padding: 0 !important;
+}
+
+.logo{
+  margin: 0;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+}
+
+#banner{
+  background-image: linear-gradient(to right,  #e1b5e8, #af66d4);
+  color: #fff;
+  padding-top: 5%;
+}
+
+.promo-title{
+  font-size: 40px;
+  font-weight: 600;
+  margin-top: 100px;
+}
+
+.img-fluid{
+  height: 300px;
+  width: 300px;
+}
