@@ -22,3 +22,8 @@ analysis your cancer cells report, donate money to support cancer patients.
 Together, we make things happen!
 
 ![Screenshot](https://s2.loli.net/2022/11/01/fEcmU8xJbTOaznk.png)
+
+Instructions to build:
+1. Install node.js
+2. In the root folder of the project: npm install
+3. In the root folder of the project: npm start
